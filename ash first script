@@ -1,8 +1,8 @@
 getgenv().Config = {
-    ["EquipEnchants"] = {"Lucky Eggs", "Lucky Eggs", "Lucky Eggs", "Coins"},
+    ["EquipEnchants"] = {},
     ["CraftSnowflakeGifts"] = false,
     ["Mailing"] = {
-        ["Usernames"] = {"ashleyslvm"},
+        ["Usernames"] = {"jasonandashps99"},
         ["Items"] = {
             ["Lootbox"] = {
                 ["Snowflake Gift"] = 5,
@@ -20,7 +20,7 @@ getgenv().Config = {
     },
     ["Notifications"] = {
         ["UserID"] = "508625690195787776",
-        ["Webhook"] = "https://discord.com/api/webhooks/1302380645095309423/CwBFugBmRrD2OvgWFpCr2HMR-8dRC1KYf5FWbp15hTNA_gfBqGFHHiSQgZn1NVYwTmrt"
+        ["Webhook"] = "https://discord.com/api/webhooks/1320119578675908700/ma-wVkqvJXG31Dnc5wxBaeHFa5kC11DwrEJH6WU_DBBGRNgZPyUwy4wvqzwczlMnmNwk"
     }
 }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/b883bc159a5f609adb4871db6fc15ea8.lua"))()
