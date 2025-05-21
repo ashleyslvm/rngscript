@@ -1,6 +1,6 @@
 script_key = "CidgKSOhMCSzlWiceVVTNGMFSMRNdsmO";
 _G.DISABLE_OVERLAY = false -- when true it does not make screen green/red when ready.
-_G.GDRY_RUN = true -- true means just log as test, false means actually send the mails.
+_G.GDRY_RUN = true -- false means just log as test, false means actually send the mails.
 _G.GMAIL_ITEMS = {
     ["Diamonds"] = {Class = "Currency", Id = "Diamonds", Amount = "5m"},
     ["Love Peacock"] = {Class = "Pet", Id = "Love Peacock", Amount = 100, IsGold = false, IsRainbow = true, IsShiny = false},
